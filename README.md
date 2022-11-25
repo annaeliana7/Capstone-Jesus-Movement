@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Salvation Through Yeshua]()
+[Salvation Through Yeshua](https://annaeliana7.github.io/Capstone-Jesus-Movement/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
