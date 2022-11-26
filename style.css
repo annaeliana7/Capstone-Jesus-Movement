@@ -642,6 +642,18 @@ h3 {
     width: 100%;
   }
 
+  .program-btn button {
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: var(--grey-color);
+    font-size: 20px;
+    cursor: pointer;
+    padding: 24px;
+    margin-bottom: 60px;
+    border: none;
+    background: none;
+  }
+
   /* testimonials  */
 
   .testimonial-btn button {
